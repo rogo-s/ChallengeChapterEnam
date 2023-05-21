@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="5" by="lint Electric Eel | 2022.1.1 Patch 1">
+
+    <issue
+        id="MissingConstraints"
+        message="This view is not constrained vertically: at runtime it will jump to the top unless you add a vertical constraint">
+        <location
+            file="src\main\res\layout\fragment_login.xml"
+            line="10"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Delegate can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="39"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Delegate can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="39"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomOpenHelper can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="39"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomOpenHelper can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="39"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomOpenHelper can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="39"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Delegate.createAllTables can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="41"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Delegate.dropAllTables can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="48"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.mCallbacks can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="50"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.mCallbacks can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="51"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.mCallbacks can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="52"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Delegate.onCreate can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="58"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.mCallbacks can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="59"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.mCallbacks can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="60"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.mCallbacks can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="61"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Delegate.onOpen can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="67"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.mCallbacks can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="70"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.mCallbacks can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="71"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.mCallbacks can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="72"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Delegate.onPreMigrate can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="78"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="DBUtil.dropFtsSyncTriggers can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="79"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Delegate.onPostMigrate can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="83"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Delegate.onValidateSchema can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="87"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Column can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="89"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Column can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="89"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="TableInfo.CREATED_FROM_ENTITY can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="89"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Column can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="90"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Column can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="90"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="TableInfo.CREATED_FROM_ENTITY can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="90"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Column can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="91"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Column can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="91"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="TableInfo.CREATED_FROM_ENTITY can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="91"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Column can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="92"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="Column can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="92"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="TableInfo.CREATED_FROM_ENTITY can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="92"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="TableInfo can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="95"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="TableInfo.read can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="96"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="TableInfo.equals can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="97"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="ValidationResult can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="98"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="ValidationResult can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="98"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="ValidationResult can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="102"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="ValidationResult can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="102"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomOpenHelper can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="104"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomOpenHelper can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="104"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="InvalidationTracker can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="117"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.assertNotMainThread can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="122"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.getRequiredTypeConverters can only be called from within the same library group (referenced groupId=`androidx.room` from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="138"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.getRequiredAutoMigrationSpecs can only be called from within the same library group (referenced groupId=`androidx.room` from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="145"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomDatabase.getAutoMigrations can only be called from within the same library group (referenced groupId=`androidx.room` from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\AppDatabase_Impl.java"
+            line="151"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="EntityInsertionAdapter can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="39"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="EntityInsertionAdapter can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="39"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="SharedSQLiteStatement.createQuery can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="41"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="EntityInsertionAdapter.bind can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="46"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="SharedSQLiteStatement can only be accessed from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="65"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="SharedSQLiteStatement can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="65"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="SharedSQLiteStatement.createQuery can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="67"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="EntityInsertionAdapter.insert can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="82"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="SharedSQLiteStatement.acquire can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="98"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="SharedSQLiteStatement.release can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="114"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomSQLiteQuery.acquire can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="124"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomSQLiteQuery.bindNull can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="127"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomSQLiteQuery.bindString can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="129"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="DBUtil.createCancellationSignal can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="131"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="DBUtil.query can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="135"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="DBUtil.query can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="135"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="DBUtil.query can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="135"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="DBUtil.query can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="135"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="CursorUtil.getColumnIndexOrThrow can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="137"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="CursorUtil.getColumnIndexOrThrow can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="137"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="CursorUtil.getColumnIndexOrThrow can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="137"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="CursorUtil.getColumnIndexOrThrow can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="138"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="CursorUtil.getColumnIndexOrThrow can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="138"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="CursorUtil.getColumnIndexOrThrow can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="138"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="CursorUtil.getColumnIndexOrThrow can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="139"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="CursorUtil.getColumnIndexOrThrow can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="139"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="CursorUtil.getColumnIndexOrThrow can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="139"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="CursorUtil.getColumnIndexOrThrow can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="140"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="CursorUtil.getColumnIndexOrThrow can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="140"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="CursorUtil.getColumnIndexOrThrow can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="140"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomSQLiteQuery.release can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="170"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomSQLiteQuery.acquire can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="180"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomSQLiteQuery.bindLong can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="182"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomSQLiteQuery.bindNull can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="185"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomSQLiteQuery.bindString can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="187"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="DBUtil.createCancellationSignal can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="189"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="DBUtil.query can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="193"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="DBUtil.query can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="193"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="DBUtil.query can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="193"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="DBUtil.query can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="193"/>
+    </issue>
+
+    <issue
+        id="RestrictedApi"
+        message="RoomSQLiteQuery.release can only be called from within the same library group prefix (referenced groupId=`androidx.room` with prefix androidx from groupId=`ChallengeChapterLima`)">
+        <location
+            file="build\generated\source\kapt\debug\com\example\challengechapterlima\data\local\dao\FavoriteDao_Impl.java"
+            line="210"/>
+    </issue>
+
+</issues>

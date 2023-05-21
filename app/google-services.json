@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717910168208",
+    "project_id": "movie-dd567",
+    "storage_bucket": "movie-dd567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717910168208:android:416f494543359fba527e15",
+        "android_client_info": {
+          "package_name": "com.example.challengechapterlima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717910168208-u7itg1c7575u2ccu20umbao6uh263hpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.challengechapterlima",
+            "certificate_hash": "49dad7595ce5de800c4faaff790080d1b01c3090"
+          }
+        },
+        {
+          "client_id": "717910168208-fs60lq9t2ufp4gaunds7bicrrfkgtkfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Hhs3h_J3LuZwt2EgICYL9LXlvrhoULs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717910168208-fs60lq9t2ufp4gaunds7bicrrfkgtkfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
